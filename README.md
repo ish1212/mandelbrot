@@ -1,3 +1,5 @@
-# hello-world
+# Reproducing the Mendlebrot image
 
-Hey! I am Ish. Lets get this github started.
+1b Mulitprocessing method
+
+2 Multi-threading method
